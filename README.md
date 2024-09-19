@@ -6,3 +6,7 @@
 *Cursiva*
 
 **Negrita**
+
+*Hola
+*1
+*2
